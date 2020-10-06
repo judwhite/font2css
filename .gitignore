@@ -1,0 +1,9 @@
+.idea/
+
+font2css
+font2css.exe
+
+*.woff
+*.woff2
+
+*.css
